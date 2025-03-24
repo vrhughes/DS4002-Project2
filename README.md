@@ -10,6 +10,7 @@ We are using Jupter Notebooks for this program that run on Python 3 (prefferably
 ## Documentation
 The files and folders are broken down into this structure
 
+```
 - root
   -- DATA
     -- GDP-Per-Capita-Current-USD.csv
@@ -26,6 +27,7 @@ The files and folders are broken down into this structure
     -- charts and tables (png files)
   -- README.md
   -- License.md
+```
 
 The DATA folder contains the datasets which we used in our project (references below coordinate to where each is from). The SCRIPTS folder contains multiple Jupyter Notebooks that have been used to clean and analyse the data, run ARIMAX and TWFE, create graphs, and do error analysis. The OUTPUT folder contains generated datasets from SCRIPTS as well as important outputed graphs and tables in png files. 
 
