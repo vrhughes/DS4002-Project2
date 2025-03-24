@@ -1,4 +1,4 @@
-# DS4002-Project2
+# DS 4002 - Group 13 - Project 2
 DS 4002 Project 2 for Vivienne Hughes (leader), Avery Donmoyer and Dana Pham.
 
 ## Goal
