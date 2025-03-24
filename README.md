@@ -13,6 +13,7 @@ DS 4002 Project 2 for Vivienne Hughes (leader), Avery Donmoyer and Dana Pham.
 3. edu_attainment_linear_reg_analysis.ipynb
 4. ARIMA_data_cleaning.ipynb
 5. TWFE.ipynb
+6. full.ARIMAX.jpynb
 
 ## References
 1. Data compiled from multiple sources by World Bank (2025) – with minor processing by Our World in Data. “GDP per capita – World Bank – In constant international-$” [dataset]. Data compiled from multiple sources by World Bank, “World Development Indicators” [original data]. Retrieved March 5, 2025 from https://ourworldindata.org/grapher/gdp-per-capita-worldbank 
