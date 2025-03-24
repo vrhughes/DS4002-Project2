@@ -32,7 +32,7 @@ The files and folders are broken down into this structure
 The DATA folder contains the datasets which we used in our project (references below coordinate to where each is from). The SCRIPTS folder contains multiple Jupyter Notebooks that have been used to clean and analyse the data, run ARIMAX and TWFE, create graphs, and do error analysis. The OUTPUT folder contains generated datasets from SCRIPTS as well as important outputed graphs and tables in png files. 
 
 ## Steps to Reproduce
-To reproduce the results of the project first yo umust close the repository with the following command: git clone https://github.com/vrhughes/DS4002-Project2
+To reproduce the results of the project first yo umust close the repository with the following command: ``` git clone https://github.com/vrhughes/DS4002-Project2 ```
 Then, you can take the gdp data and run the GDP_csv_organizing script which will give you your first cleaned output of the gdp file (also available in the OUTPUTS folder if you want to skip the first script). Then, using the cleaned gdp file and the other 5 data sets (not including the projections by the UN) run the Data_Consolidation to get the complete dataset. Next, run the third script which verifies that the educational attainment data can be linearly interpolating. Now, run the ARIMA_data_cleaning file which fixes the missing values created in the combined data set due due to the fact that the educational attainment information was only collected every five years. From there you can run either TWFE or full_ARIMA, the order does not matter.
 
 1. GDP_csv_organizing.ipynb
